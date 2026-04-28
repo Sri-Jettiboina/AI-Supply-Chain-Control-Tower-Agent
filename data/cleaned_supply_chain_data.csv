@@ -1,0 +1,251 @@
+po_id,supplier_id,supplier_name,product_id,product_name,category,region,country,po_date,expected_delivery_date,actual_delivery_date,quantity_ordered,quantity_received,inventory_level,forecasted_demand,reorder_point,po_value,defective_units,lead_time_days,delivery_status,base_risk_level
+PO0001,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2026-01-15,2026-01-29,2026-01-30,258,243,526,1134,601,686.91,0,15,Late,Medium
+PO0002,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2026-01-02,2026-01-20,2026-01-21,939,836,63,1654,978,4408.69,17,19,Late,Medium
+PO0003,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-05-23,2025-06-14,2025-06-11,858,749,138,1594,777,5618.99,22,22,On Time,Medium
+PO0004,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-02-10,2025-03-07,2025-03-08,820,771,516,1683,735,2136.09,19,26,Late,Medium
+PO0005,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2026-03-20,2026-04-07,2026-04-06,413,376,1449,1427,530,1185.46,2,18,On Time,Medium
+PO0006,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-03-25,2025-04-18,2025-04-17,529,464,519,1783,641,13504.73,27,24,On Time,High
+PO0007,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2025-05-18,2025-06-06,2025-06-05,515,490,989,392,168,21915.14,3,19,On Time,Low
+PO0008,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2026-01-18,2026-02-06,2026-02-07,897,816,1060,286,164,5684.58,29,20,Late,Medium
+PO0009,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-11-18,2025-12-07,2025-12-07,861,812,1183,123,68,2455.31,13,19,On Time,Medium
+PO0010,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2026-01-29,2026-02-19,2026-02-16,681,627,1523,639,409,2516.01,10,21,On Time,Medium
+PO0011,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2026-03-22,2026-04-06,2026-04-04,393,313,1136,101,53,10646.68,3,15,On Time,High
+PO0012,SUP001,Atlas Components,PRD008,Microcontroller,Electronics,West,USA,2025-02-27,2025-03-02,2025-03-01,570,494,225,1598,792,33619.41,6,3,On Time,Low
+PO0013,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-03-07,2025-03-15,2025-03-24,946,941,1462,511,288,3269.68,31,17,Late,Medium
+PO0014,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-08-13,2025-08-17,2025-08-17,327,292,1184,571,300,1684.21,0,4,On Time,Medium
+PO0015,SUP001,Atlas Components,PRD001,Sensor Module,Electronics,Northeast,USA,2025-12-29,2026-01-04,2026-01-03,225,209,1154,370,209,11276.99,0,6,On Time,Low
+PO0016,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2025-05-05,2025-05-24,2025-05-24,469,339,891,1056,643,25581.39,15,19,On Time,High
+PO0017,SUP001,Atlas Components,PRD001,Sensor Module,Electronics,Northeast,USA,2025-02-01,2025-02-06,2025-02-04,472,418,620,1047,444,23080.86,3,5,On Time,Low
+PO0018,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2026-02-18,2026-03-07,2026-03-08,280,242,241,1643,993,994.91,8,18,Late,Medium
+PO0019,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-09-06,2025-09-18,2025-09-16,856,599,981,684,326,22986.48,16,12,On Time,High
+PO0020,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-03-21,2025-04-06,2025-04-10,199,187,167,202,106,914.76,3,20,Late,Medium
+PO0021,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-01-30,2025-02-15,2025-02-25,219,209,1216,604,316,786.61,1,26,Late,Medium
+PO0022,SUP001,Atlas Components,PRD001,Sensor Module,Electronics,Northeast,USA,2025-08-03,2025-08-11,2025-08-12,1150,1039,693,588,252,61707.55,4,9,Late,Low
+PO0023,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-08-23,2025-09-10,2025-09-18,284,204,764,240,147,5973.59,3,26,Late,High
+PO0024,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2025-03-22,2025-04-07,2025-04-08,699,660,66,1467,873,27195.06,10,17,Late,Low
+PO0025,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2026-03-26,2026-04-05,2026-04-14,398,357,466,1507,814,6788.16,3,19,Late,Low
+PO0026,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-05-09,2025-05-19,2025-05-16,269,255,733,1679,653,3500.91,3,10,On Time,Low
+PO0027,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2026-01-15,2026-01-18,2026-01-15,234,232,123,856,449,3192.77,2,3,On Time,Low
+PO0028,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-03-07,2025-03-31,2025-04-06,161,150,260,824,481,3364.23,2,30,Late,High
+PO0029,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-05-02,2025-05-26,2025-05-26,130,115,893,1742,959,907.1,3,24,On Time,Medium
+PO0030,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-03-23,2025-03-27,2025-03-24,863,847,992,816,360,5672.34,26,4,On Time,Medium
+PO0031,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-01-13,2025-01-25,2025-01-22,651,591,1148,778,491,5112.08,10,12,On Time,Medium
+PO0032,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-04-02,2025-04-12,2025-04-11,158,138,692,993,528,541.03,2,10,On Time,Medium
+PO0033,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-07-17,2025-08-03,2025-08-10,83,77,1569,1609,886,373.41,2,24,Late,Medium
+PO0034,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2025-02-05,2025-02-12,2025-02-11,722,687,1088,733,403,30577.17,1,7,On Time,Low
+PO0035,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2025-12-23,2025-12-31,2025-12-31,436,412,50,722,314,16315.61,1,8,On Time,Low
+PO0036,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-08-27,2025-09-13,2025-09-11,1126,1042,397,1449,544,7893.78,33,17,On Time,Medium
+PO0037,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-02-17,2025-03-07,2025-03-05,487,428,1301,1673,622,2422.48,0,18,On Time,Medium
+PO0038,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2026-01-03,2026-01-10,2026-01-10,898,802,1587,1677,1032,4591.75,18,7,On Time,Medium
+PO0039,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-04-01,2025-04-18,2025-04-19,590,583,1001,1467,747,3197.81,2,18,Late,Medium
+PO0040,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2026-01-22,2026-01-29,2026-01-30,1113,1023,375,1623,987,4578.28,33,8,Late,Medium
+PO0041,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2026-01-20,2026-02-19,2026-02-20,1072,925,635,580,250,45332.39,27,31,Late,Critical
+PO0042,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2025-03-12,2025-03-28,2025-03-28,392,375,1161,1054,500,13898.91,0,16,On Time,Low
+PO0043,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-07-19,2025-08-08,2025-08-09,859,796,848,958,489,5829.27,27,21,Late,Medium
+PO0044,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-09-07,2025-09-18,2025-09-25,1074,928,878,1583,632,4818.64,11,18,Late,Medium
+PO0045,SUP001,Atlas Components,PRD008,Microcontroller,Electronics,West,USA,2025-11-15,2025-11-18,2025-11-15,251,238,152,632,293,12465.82,0,3,On Time,Low
+PO0046,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-06-17,2025-06-29,2025-06-29,649,626,217,1063,378,4319.98,18,12,On Time,Medium
+PO0047,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-06-29,2025-07-14,2025-07-11,143,141,362,588,228,490.86,1,15,On Time,Medium
+PO0048,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-08-27,2025-09-12,2025-09-11,423,399,385,737,281,1443.29,13,16,On Time,Medium
+PO0049,SUP008,Cobalt Semiconductors,PRD001,Sensor Module,Electronics,Northeast,Taiwan,2025-10-22,2025-11-15,2025-11-27,486,349,258,1527,888,25681.72,26,36,Late,Critical
+PO0050,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2026-02-12,2026-02-22,2026-02-19,791,663,1376,798,282,38179.24,30,10,On Time,High
+PO0051,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-02-24,2025-03-06,2025-03-06,393,361,603,1361,806,2914.93,9,10,On Time,Medium
+PO0052,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-08-27,2025-09-12,2025-09-13,629,569,621,1023,432,3079.2,5,17,Late,Medium
+PO0053,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2025-06-22,2025-07-31,2025-08-04,806,731,1486,665,343,46507.93,27,43,Late,Critical
+PO0054,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-02-13,2025-03-01,2025-03-08,1080,1012,1507,1105,535,4494.69,8,23,Late,Medium
+PO0055,SUP001,Atlas Components,PRD001,Sensor Module,Electronics,Northeast,USA,2025-05-31,2025-06-10,2025-06-11,835,773,1577,1227,551,40889.68,6,11,Late,Low
+PO0056,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2025-06-06,2025-07-13,2025-07-15,474,370,1463,479,195,27992.95,30,39,Late,Critical
+PO0057,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2026-01-06,2026-01-28,2026-01-25,477,370,1500,1193,462,22229.89,14,22,On Time,Critical
+PO0058,SUP001,Atlas Components,PRD001,Sensor Module,Electronics,Northeast,USA,2025-10-11,2025-10-15,2025-10-13,1085,948,1030,1002,453,50191.36,0,4,On Time,Low
+PO0059,SUP008,Cobalt Semiconductors,PRD001,Sensor Module,Electronics,Northeast,Taiwan,2026-03-18,2026-04-07,2026-04-09,189,139,224,608,234,11155.39,12,22,Late,Critical
+PO0060,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2026-02-02,2026-02-18,2026-02-18,986,889,1214,1371,504,6043.38,18,16,On Time,Medium
+PO0061,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-11-17,2025-12-03,2025-12-06,233,205,1012,696,250,786.9,3,19,Late,Medium
+PO0062,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-12-26,2026-01-11,2026-01-08,558,552,1404,1746,1100,9207.19,6,16,On Time,Low
+PO0063,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-10-06,2025-10-21,2025-10-19,226,196,1215,691,332,1475.35,5,15,On Time,Medium
+PO0064,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2025-12-25,2026-01-26,2026-01-31,1104,927,934,1604,716,57719.66,44,37,Late,Critical
+PO0065,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-02-16,2025-02-25,2025-02-26,122,121,132,1662,958,1752.78,1,10,Late,Low
+PO0066,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2025-05-23,2025-06-29,2025-07-09,972,840,762,936,421,41360.4,45,47,Late,Critical
+PO0067,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-06-18,2025-06-28,2025-06-28,155,143,877,1153,688,455.38,1,10,On Time,Medium
+PO0068,SUP008,Cobalt Semiconductors,PRD001,Sensor Module,Electronics,Northeast,Taiwan,2025-07-31,2025-09-02,2025-09-11,820,706,155,516,221,40415.49,38,42,Late,Critical
+PO0069,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-08-13,2025-09-08,2025-09-19,570,504,885,290,121,10727.59,10,37,Late,High
+PO0070,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-03-02,2025-03-13,2025-03-11,1100,1089,900,1088,700,3736.14,11,11,On Time,Medium
+PO0071,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-10-10,2025-10-26,2025-10-24,222,199,1089,647,385,1578.83,5,16,On Time,Medium
+PO0072,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2026-03-05,2026-03-16,2026-03-16,384,354,1162,872,424,5661.94,2,11,On Time,Low
+PO0073,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2025-12-24,2026-01-02,2026-01-02,169,152,830,890,575,7188.93,1,9,On Time,Low
+PO0074,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-01-19,2025-02-14,2025-02-24,759,702,1127,1035,367,17134.19,42,36,Late,High
+PO0075,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2026-03-22,2026-04-11,2026-04-10,773,666,722,1481,900,15001.44,18,20,On Time,High
+PO0076,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-11-17,2025-11-29,2025-11-29,1188,1027,638,565,324,7858.37,2,12,On Time,Medium
+PO0077,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2026-01-25,2026-02-02,2026-02-01,139,120,817,982,386,806.77,3,8,On Time,Medium
+PO0078,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-10-17,2025-10-24,2025-10-22,428,378,1449,593,296,1717.17,8,7,On Time,Medium
+PO0079,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2025-04-29,2025-05-17,2025-05-18,1032,964,954,807,521,51832.68,45,19,Late,High
+PO0080,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-12-20,2025-12-29,2025-12-28,487,486,831,1271,581,6520.89,6,9,On Time,Low
+PO0081,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-01-12,2025-01-28,2025-01-29,180,177,636,1688,995,3194.47,2,17,Late,Low
+PO0082,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2025-04-23,2025-05-13,2025-05-14,593,519,330,1386,525,36322.43,26,21,Late,High
+PO0083,SUP008,Cobalt Semiconductors,PRD001,Sensor Module,Electronics,Northeast,Taiwan,2026-02-08,2026-03-03,2026-02-28,684,536,1154,849,432,30544.2,24,23,On Time,Critical
+PO0084,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-05-12,2025-05-23,2025-05-23,684,659,204,388,223,9193.66,3,11,On Time,Low
+PO0085,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2026-03-10,2026-03-26,2026-03-23,621,580,1426,636,334,4864.86,9,16,On Time,Medium
+PO0086,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2025-12-12,2025-12-16,2025-12-13,751,742,1000,1535,676,23006.91,2,4,On Time,Low
+PO0087,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-03-13,2025-03-29,2025-03-26,279,249,809,1473,935,1683.14,4,16,On Time,Medium
+PO0088,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-10-28,2025-11-12,2025-11-10,929,884,622,167,93,4073.71,26,15,On Time,Medium
+PO0089,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-08-16,2025-09-09,2025-09-20,832,778,865,665,270,5785.97,27,35,Late,Medium
+PO0090,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-02-16,2025-02-27,2025-02-28,123,106,1206,520,192,459.6,1,12,Late,Medium
+PO0091,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-10-28,2025-11-14,2025-11-12,85,76,1156,613,361,423.3,2,17,On Time,Medium
+PO0092,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-03-09,2025-04-02,2025-04-15,567,534,309,1619,771,1626.41,0,37,Late,Medium
+PO0093,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-09-01,2025-09-11,2025-09-11,1111,989,1399,1167,514,3802.61,21,10,On Time,Medium
+PO0094,SUP001,Atlas Components,PRD001,Sensor Module,Electronics,Northeast,USA,2025-09-03,2025-09-13,2025-09-13,301,279,215,759,404,12705.52,4,10,On Time,Low
+PO0095,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-05-21,2025-05-31,2025-05-31,1166,1050,1487,334,202,3575.23,19,10,On Time,Medium
+PO0096,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-08-09,2025-08-19,2025-08-17,927,841,244,740,353,3768.8,13,10,On Time,Medium
+PO0097,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-03-20,2025-03-26,2025-03-28,270,248,316,1239,455,4046.19,2,8,Late,Low
+PO0098,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-12-10,2025-12-19,2025-12-25,946,928,1279,739,336,4682.17,24,15,Late,Medium
+PO0099,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2025-03-21,2025-04-10,2025-04-24,832,607,928,1248,801,43035.62,11,34,Late,High
+PO0100,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2025-11-08,2025-11-27,2025-11-26,139,103,745,818,287,7443.13,5,19,On Time,High
+PO0101,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-02-05,2025-03-03,2025-03-15,1166,881,807,738,418,25302.07,25,38,Late,High
+PO0102,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2025-01-27,2025-02-23,2025-03-08,181,158,1044,1343,648,11097.59,3,40,Late,High
+PO0103,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2026-01-22,2026-01-26,2026-02-06,1076,1004,1277,212,74,15142.67,4,15,Late,Low
+PO0104,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2026-01-28,2026-02-05,2026-02-04,672,608,409,364,168,11579.96,0,8,On Time,Low
+PO0105,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-02-06,2025-02-14,2025-02-14,239,234,1503,1411,670,1805.77,4,8,On Time,Medium
+PO0106,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-01-11,2025-01-30,2025-01-28,1022,997,266,598,287,2714.18,33,19,On Time,Medium
+PO0107,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-07-22,2025-08-11,2025-08-24,424,369,447,1689,768,2702.34,8,33,Late,Medium
+PO0108,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-02-22,2025-03-09,2025-03-13,435,372,412,1682,905,10643.79,19,19,Late,High
+PO0109,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2025-12-15,2026-01-19,2026-01-20,741,685,189,1060,511,32380.5,47,36,Late,Critical
+PO0110,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-10-30,2025-11-05,2025-11-14,231,208,637,257,139,3024.1,1,15,Late,Low
+PO0111,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-08-25,2025-08-29,2025-08-26,1001,988,1289,1074,537,2778.66,20,4,On Time,Medium
+PO0112,SUP008,Cobalt Semiconductors,PRD001,Sensor Module,Electronics,Northeast,Taiwan,2025-02-22,2025-03-17,2025-03-16,252,209,946,999,506,11480.28,3,23,On Time,Critical
+PO0113,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2025-07-06,2025-07-25,2025-07-24,187,169,243,1242,687,9013.41,7,19,On Time,High
+PO0114,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2026-01-06,2026-01-17,2026-01-18,387,350,766,735,470,5262.65,3,12,Late,Low
+PO0115,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-11-01,2025-11-15,2025-11-14,341,325,1453,1178,445,2343.71,9,14,On Time,Medium
+PO0116,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-01-10,2025-01-22,2025-01-20,518,470,331,417,155,2880.5,12,12,On Time,Medium
+PO0117,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-12-05,2025-12-15,2025-12-22,395,348,389,1576,758,1372.75,10,17,Late,Medium
+PO0118,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-12-13,2026-01-04,2026-01-04,663,640,539,733,468,3753.65,18,22,On Time,Medium
+PO0119,SUP001,Atlas Components,PRD008,Microcontroller,Electronics,West,USA,2025-07-08,2025-07-14,2025-07-13,862,802,458,1740,924,37851.73,5,6,On Time,Low
+PO0120,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-11-25,2025-11-28,2025-11-27,290,278,221,1662,661,3914.44,2,3,On Time,Low
+PO0121,SUP001,Atlas Components,PRD008,Microcontroller,Electronics,West,USA,2026-03-02,2026-03-05,2026-03-05,795,787,815,582,271,38487.47,5,3,On Time,Low
+PO0122,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-04-25,2025-05-14,2025-05-16,766,743,1017,1525,913,2217.0,3,21,Late,Medium
+PO0123,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2025-11-12,2025-12-14,2025-12-28,386,325,277,1689,737,19660.22,25,46,Late,Critical
+PO0124,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-01-25,2025-02-03,2025-02-04,1016,882,1147,133,71,16000.96,11,10,Late,Low
+PO0125,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2026-01-03,2026-01-28,2026-01-26,933,698,788,238,151,54362.79,32,25,On Time,High
+PO0126,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-07-19,2025-08-07,2025-08-04,872,869,188,806,340,2987.46,7,19,On Time,Medium
+PO0127,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-03-10,2025-03-31,2025-03-29,1031,1028,326,229,129,2854.56,17,21,On Time,Medium
+PO0128,SUP001,Atlas Components,PRD008,Microcontroller,Electronics,West,USA,2025-05-31,2025-06-10,2025-06-08,165,149,1162,1069,455,7993.57,0,10,On Time,Low
+PO0129,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-07-02,2025-07-18,2025-07-17,334,324,950,891,402,2361.4,5,16,On Time,Medium
+PO0130,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-12-21,2026-01-10,2026-01-11,626,568,1283,1784,720,12140.99,28,21,Late,High
+PO0131,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-02-22,2025-03-09,2025-03-10,952,840,1538,822,439,14692.0,5,16,Late,Low
+PO0132,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-11-24,2025-12-12,2025-12-09,233,222,1585,1491,593,1475.22,3,18,On Time,Medium
+PO0133,SUP001,Atlas Components,PRD001,Sensor Module,Electronics,Northeast,USA,2026-03-11,2026-03-14,2026-03-16,563,545,1211,166,88,27108.9,3,5,Late,Low
+PO0134,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2025-07-10,2025-08-03,2025-08-05,361,302,561,332,118,19231.04,13,26,Late,Critical
+PO0135,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-09-23,2025-10-10,2025-10-15,993,750,1055,509,196,24633.38,32,22,Late,High
+PO0136,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-03-30,2025-04-18,2025-04-18,259,252,1417,811,456,967.08,8,19,On Time,Medium
+PO0137,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-06-03,2025-06-22,2025-06-20,820,763,334,584,342,3051.69,3,19,On Time,Medium
+PO0138,SUP008,Cobalt Semiconductors,PRD001,Sensor Module,Electronics,Northeast,Taiwan,2025-10-11,2025-11-03,2025-11-03,345,296,1518,1572,775,16124.74,2,23,On Time,Critical
+PO0139,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2026-02-26,2026-03-10,2026-03-07,1001,926,1179,1410,742,5413.41,17,12,On Time,Medium
+PO0140,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-09-15,2025-10-05,2025-10-02,334,278,1502,561,254,6721.85,5,20,On Time,High
+PO0141,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2026-03-10,2026-03-27,2026-03-26,336,318,1362,445,234,1192.63,7,17,On Time,Medium
+PO0142,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2025-03-29,2025-04-21,2025-04-22,771,708,108,266,96,50041.91,27,24,Late,High
+PO0143,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2025-11-30,2025-12-23,2025-12-20,1099,1023,668,1089,461,66898.28,39,23,On Time,High
+PO0144,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-08-21,2025-09-11,2025-09-12,403,371,1292,394,174,2252.63,6,22,Late,Medium
+PO0145,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2025-07-24,2025-08-05,2025-08-04,575,532,248,203,88,19102.0,2,12,On Time,Low
+PO0146,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-05-08,2025-05-26,2025-05-24,750,743,376,1120,726,4166.7,19,18,On Time,Medium
+PO0147,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2026-03-27,2026-04-25,2026-04-26,1016,966,153,676,336,48336.8,22,30,Late,Critical
+PO0148,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2025-10-02,2025-11-02,2025-11-04,962,706,875,849,308,46005.66,20,33,Late,Critical
+PO0149,SUP001,Atlas Components,PRD001,Sensor Module,Electronics,Northeast,USA,2025-07-05,2025-07-12,2025-07-13,652,636,313,298,139,34250.88,6,8,Late,Low
+PO0150,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2026-01-22,2026-01-30,2026-01-31,1122,1027,1511,782,462,33990.76,0,9,Late,Low
+PO0151,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-03-18,2025-03-28,2025-03-29,732,646,662,1315,592,3354.69,23,11,Late,Medium
+PO0152,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-12-29,2026-01-09,2026-01-09,114,103,1245,730,429,566.33,2,11,On Time,Medium
+PO0153,SUP008,Cobalt Semiconductors,PRD001,Sensor Module,Electronics,Northeast,Taiwan,2025-05-16,2025-06-23,2025-06-24,546,484,1338,1576,844,24064.31,31,39,Late,Critical
+PO0154,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2026-02-25,2026-03-10,2026-03-07,305,270,895,1514,622,1862.05,4,13,On Time,Medium
+PO0155,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2026-03-23,2026-04-11,2026-04-12,504,473,821,742,472,2099.36,16,20,Late,Medium
+PO0156,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2025-10-07,2025-10-30,2025-11-12,621,533,1192,711,296,28276.1,11,36,Late,Critical
+PO0157,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-12-27,2026-01-07,2026-01-06,640,576,858,1776,805,10245.85,5,11,On Time,Low
+PO0158,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-01-22,2025-02-20,2025-03-04,241,190,1031,538,220,5050.57,5,41,Late,High
+PO0159,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-10-15,2025-10-29,2025-10-30,570,509,1356,576,210,2422.31,12,15,Late,Medium
+PO0160,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2026-01-03,2026-01-15,2026-01-13,90,89,1387,1074,529,493.12,3,12,On Time,Medium
+PO0161,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-06-14,2025-06-28,2025-06-29,555,518,408,955,587,4757.83,13,15,Late,Medium
+PO0162,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2026-03-05,2026-03-28,2026-03-28,461,434,126,118,51,12377.46,29,23,On Time,High
+PO0163,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2025-06-21,2025-07-09,2025-07-09,354,326,280,777,309,18051.12,10,18,On Time,High
+PO0164,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2026-01-03,2026-02-16,2026-02-28,770,697,409,1351,819,42611.67,43,56,Late,Critical
+PO0165,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-09-21,2025-10-03,2025-10-06,1057,956,532,1014,584,6052.26,8,15,Late,Medium
+PO0166,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2025-10-26,2025-11-08,2025-11-05,615,585,292,1053,465,18831.14,6,13,On Time,Low
+PO0167,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-12-20,2026-01-12,2026-01-13,532,473,1581,1340,619,2908.79,2,24,Late,Medium
+PO0168,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2026-01-23,2026-02-14,2026-02-12,586,559,1126,1014,515,2730.64,11,22,On Time,Medium
+PO0169,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2025-10-16,2025-11-01,2025-10-30,1179,1038,288,1493,614,43664.01,5,16,On Time,Low
+PO0170,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2025-02-16,2025-03-16,2025-03-16,193,157,168,1244,607,10962.32,5,28,On Time,High
+PO0171,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-07-22,2025-07-30,2025-07-27,172,158,173,241,155,2751.48,1,8,On Time,Low
+PO0172,SUP001,Atlas Components,PRD008,Microcontroller,Electronics,West,USA,2025-05-27,2025-06-05,2025-06-03,940,857,823,869,325,46447.2,12,9,On Time,Low
+PO0173,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-12-01,2025-12-17,2025-12-17,1163,1020,1598,146,93,5507.64,35,16,On Time,Medium
+PO0174,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2025-09-30,2025-10-28,2025-11-01,586,480,1534,1667,639,26029.43,8,32,Late,Critical
+PO0175,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-05-04,2025-05-19,2025-05-29,179,160,1155,544,313,1101.48,0,25,Late,Medium
+PO0176,SUP001,Atlas Components,PRD001,Sensor Module,Electronics,Northeast,USA,2025-09-15,2025-09-26,2025-09-24,733,689,535,718,440,41423.99,8,11,On Time,Low
+PO0177,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-07-31,2025-08-14,2025-08-12,954,894,1367,1474,684,3769.31,1,14,On Time,Medium
+PO0178,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-12-23,2026-01-08,2026-01-06,694,633,511,715,434,2885.4,17,16,On Time,Medium
+PO0179,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-01-30,2025-02-08,2025-02-06,875,667,971,859,324,21342.14,9,9,On Time,High
+PO0180,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-05-18,2025-05-27,2025-05-28,160,157,1533,1475,763,1293.24,1,10,Late,Medium
+PO0181,SUP001,Atlas Components,PRD008,Microcontroller,Electronics,West,USA,2026-03-22,2026-04-03,2026-04-01,469,466,1030,596,332,28136.15,0,12,On Time,Low
+PO0182,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-05-03,2025-05-15,2025-05-14,859,794,786,1150,707,5852.87,18,12,On Time,Medium
+PO0183,SUP001,Atlas Components,PRD008,Microcontroller,Electronics,West,USA,2026-02-16,2026-03-02,2026-02-28,839,758,1568,398,141,48150.57,0,14,On Time,Low
+PO0184,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-06-01,2025-06-15,2025-06-21,551,503,1390,1502,677,2313.58,15,20,Late,Medium
+PO0185,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2025-08-24,2025-09-27,2025-10-09,1199,991,1364,220,111,61399.62,99,46,Late,Critical
+PO0186,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2026-01-27,2026-02-18,2026-02-21,553,480,983,864,318,1555.29,2,25,Late,Medium
+PO0187,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2025-12-04,2025-12-25,2025-12-22,114,95,85,1128,669,7781.02,1,21,On Time,High
+PO0188,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-02-24,2025-03-11,2025-03-12,384,343,775,647,380,2191.03,7,16,Late,Medium
+PO0189,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-07-27,2025-08-07,2025-08-06,245,233,241,930,431,848.07,7,11,On Time,Medium
+PO0190,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-01-29,2025-02-13,2025-02-11,249,231,1208,295,182,1159.1,3,15,On Time,Medium
+PO0191,SUP001,Atlas Components,PRD001,Sensor Module,Electronics,Northeast,USA,2025-04-19,2025-05-04,2025-05-03,175,173,1162,1254,686,8082.05,1,15,On Time,Low
+PO0192,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-01-09,2025-01-26,2025-01-27,375,335,207,712,283,8326.88,16,18,Late,High
+PO0193,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-12-13,2025-12-31,2025-12-29,240,223,945,575,345,1464.08,7,18,On Time,Medium
+PO0194,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2026-02-01,2026-02-07,2026-02-06,1002,930,934,480,265,43011.85,5,6,On Time,Low
+PO0195,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2026-01-31,2026-02-08,2026-02-05,628,553,1564,897,399,4158.22,14,8,On Time,Medium
+PO0196,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-01-03,2025-01-11,2025-01-11,817,789,932,1019,526,2168.94,2,8,On Time,Medium
+PO0197,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-02-22,2025-03-13,2025-03-23,744,729,223,1584,982,3022.2,0,29,Late,Medium
+PO0198,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-12-17,2026-01-01,2025-12-30,630,568,940,665,316,3860.1,10,15,On Time,Medium
+PO0199,SUP001,Atlas Components,PRD008,Microcontroller,Electronics,West,USA,2025-07-04,2025-07-12,2025-07-13,480,443,860,780,469,19646.37,0,9,Late,Low
+PO0200,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-08-14,2025-09-01,2025-09-02,358,322,1031,743,299,2423.2,6,19,Late,Medium
+PO0201,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-05-30,2025-06-13,2025-06-11,747,681,283,1254,514,4514.15,20,14,On Time,Medium
+PO0202,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-12-16,2025-12-23,2025-12-20,1025,1016,1468,241,143,4793.2,7,7,On Time,Medium
+PO0203,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-03-13,2025-03-25,2025-03-25,852,741,870,1194,599,5325.14,26,12,On Time,Medium
+PO0204,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2026-02-09,2026-02-21,2026-02-22,254,222,390,1425,760,1700.6,1,13,Late,Medium
+PO0205,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2026-01-21,2026-02-07,2026-02-09,609,461,1458,1278,532,35946.75,24,19,Late,High
+PO0206,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2025-08-26,2025-09-11,2025-09-12,1104,972,655,951,595,40305.71,15,17,Late,Low
+PO0207,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2026-03-02,2026-03-19,2026-03-19,503,469,1528,1526,741,1341.58,5,17,On Time,Medium
+PO0208,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-01-23,2025-02-05,2025-02-02,126,123,386,1616,683,423.68,2,13,On Time,Medium
+PO0209,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-06-19,2025-06-29,2025-07-06,457,342,1560,1357,834,10136.77,15,17,Late,High
+PO0210,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2025-07-19,2025-08-13,2025-08-17,501,386,1232,308,181,28097.76,29,29,Late,Critical
+PO0211,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-07-07,2025-07-19,2025-07-19,1160,1154,853,1302,500,4665.31,13,12,On Time,Medium
+PO0212,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2025-11-13,2025-11-26,2025-11-25,253,241,289,474,218,8371.77,1,13,On Time,Low
+PO0213,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-08-03,2025-08-19,2025-08-19,1180,1038,1186,441,219,32448.96,46,16,On Time,High
+PO0214,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-06-11,2025-06-29,2025-06-30,189,174,449,1769,822,4340.3,11,19,Late,High
+PO0215,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-07-29,2025-08-10,2025-08-10,422,367,648,166,71,1948.67,0,12,On Time,Medium
+PO0216,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-03-28,2025-04-07,2025-04-08,1094,1025,1162,1786,1156,3919.51,4,11,Late,Medium
+PO0217,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2026-01-25,2026-02-07,2026-02-04,586,528,763,1772,666,2414.07,18,13,On Time,Medium
+PO0218,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-04-18,2025-04-26,2025-04-27,798,782,1311,385,225,2444.91,17,9,Late,Medium
+PO0219,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-10-19,2025-10-31,2025-10-30,679,611,1441,1769,669,5671.31,5,12,On Time,Medium
+PO0220,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-05-22,2025-06-09,2025-06-07,351,314,1434,904,449,2488.01,8,18,On Time,Medium
+PO0221,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2025-11-18,2025-12-05,2025-12-02,905,754,805,1031,654,60951.2,14,17,On Time,High
+PO0222,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2026-03-21,2026-04-01,2026-03-29,1018,965,1144,914,379,42401.21,10,11,On Time,Low
+PO0223,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-09-11,2025-09-24,2025-09-25,347,325,1447,1661,605,2055.97,5,14,Late,Medium
+PO0224,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-01-09,2025-02-02,2025-02-16,403,371,464,1510,940,1490.95,0,38,Late,Medium
+PO0225,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2026-03-24,2026-04-05,2026-04-04,248,226,861,1381,609,3408.3,3,12,On Time,Low
+PO0226,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-12-02,2025-12-15,2025-12-17,82,72,1113,1492,721,624.21,0,15,Late,Medium
+PO0227,SUP008,Cobalt Semiconductors,PRD001,Sensor Module,Electronics,Northeast,Taiwan,2026-02-23,2026-04-01,2026-04-01,225,170,261,741,341,12661.73,1,37,On Time,Critical
+PO0228,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-07-15,2025-07-30,2025-07-28,372,323,386,1001,455,6105.23,2,15,On Time,Low
+PO0229,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-07-30,2025-08-09,2025-08-11,366,353,929,744,436,2571.26,7,12,Late,Medium
+PO0230,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-11-27,2025-12-08,2025-12-17,663,642,1398,717,295,5518.88,15,20,Late,Medium
+PO0231,SUP010,Pioneer Batteries,PRD010,Lithium Cell,Energy,West,South Korea,2026-01-18,2026-02-03,2026-02-01,1093,874,195,1181,728,66441.08,14,16,On Time,High
+PO0232,SUP008,Cobalt Semiconductors,PRD001,Sensor Module,Electronics,Northeast,Taiwan,2025-06-12,2025-07-16,2025-07-30,941,748,199,134,70,52173.12,56,48,Late,Critical
+PO0233,SUP008,Cobalt Semiconductors,PRD001,Sensor Module,Electronics,Northeast,Taiwan,2025-04-21,2025-05-22,2025-05-23,666,575,1487,923,345,32485.01,31,32,Late,Critical
+PO0234,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-05-23,2025-06-07,2025-06-09,1127,1114,719,900,473,4111.98,39,17,Late,Medium
+PO0235,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-12-24,2025-12-27,2025-12-31,256,253,162,733,403,840.9,1,7,Late,Medium
+PO0236,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2025-01-07,2025-02-02,2025-01-30,415,344,1526,630,252,9649.4,8,26,On Time,High
+PO0237,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2026-01-11,2026-02-08,2026-02-21,959,739,1230,1385,516,23944.74,3,41,Late,High
+PO0238,SUP008,Cobalt Semiconductors,PRD008,Microcontroller,Electronics,West,Taiwan,2025-01-29,2025-02-22,2025-03-04,421,334,1225,1480,838,18008.6,9,34,Late,Critical
+PO0239,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-01-23,2025-02-07,2025-02-13,864,854,122,1232,728,7464.06,5,21,Late,Medium
+PO0240,SUP007,Summit Hardware,PRD007,Bolt Assembly,Hardware,South,Vietnam,2025-06-14,2025-06-28,2025-07-10,735,660,1078,1478,917,4406.13,1,26,Late,Medium
+PO0241,SUP003,Zenith Metals,PRD003,Aluminum Sheet,Raw Materials,South,India,2026-02-16,2026-03-08,2026-03-08,658,592,985,116,53,12804.81,12,20,On Time,High
+PO0242,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2026-01-14,2026-01-22,2026-01-22,834,786,450,1600,992,14499.66,6,8,On Time,Low
+PO0243,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-01-04,2025-01-20,2025-01-17,766,658,1539,729,277,6378.65,15,16,On Time,Medium
+PO0244,SUP009,Evergreen Textiles,PRD009,Cotton Roll,Textiles,Northeast,Bangladesh,2025-08-03,2025-08-17,2025-08-14,371,356,1114,945,529,1808.27,1,14,On Time,Medium
+PO0245,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2026-01-18,2026-01-28,2026-01-28,233,219,317,584,255,9092.64,0,10,On Time,Low
+PO0246,SUP006,Delta Medical Supplies,PRD006,Medical Kit,Healthcare,Midwest,Germany,2025-12-25,2026-01-04,2026-01-03,731,674,328,1697,986,31403.59,2,10,On Time,Low
+PO0247,SUP002,Nova Packaging,PRD002,Corrugated Box,Packaging,Midwest,Mexico,2025-02-24,2025-03-13,2025-03-14,813,808,592,345,130,2373.94,6,18,Late,Medium
+PO0248,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-04-21,2025-05-04,2025-05-03,383,334,1101,200,110,5700.75,1,13,On Time,Low
+PO0249,SUP005,Harbor Logistics,PRD005,Freight Service,Logistics,Northeast,USA,2025-01-16,2025-02-03,2025-02-04,591,516,298,124,45,10350.1,0,19,Late,Low
+PO0250,SUP004,Orion Plastics,PRD004,Plastic Housing,Plastics,West,China,2025-04-12,2025-04-24,2025-04-23,252,237,94,232,94,2072.87,2,12,On Time,Medium
