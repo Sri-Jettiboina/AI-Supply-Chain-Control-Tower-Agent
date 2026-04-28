@@ -1,7 +1,10 @@
 # AI Supply Chain Control Tower Agent using GPT-5.5, PostgreSQL, Python, and Streamlit
 
-## Project Overview
+## Live Demo
 
+[Open Live Streamlit App](https://ai-supply-chain-control-tower-agent-fypghnmknx2amgmstxdgqc.streamlit.app/)
+
+## Project Overview
 This project is a GenAI-powered supply chain analytics assistant that helps business users ask natural-language questions about supplier risk, procurement spend, delivery delays, inventory exposure, and stockout risk.
 
 The project combines **GPT-5.5**, **Python**, **PostgreSQL**, **SQL**, **Streamlit**, and **Power BI-ready datasets** to simulate a modern supply chain control tower.
